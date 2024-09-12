@@ -1,6 +1,6 @@
 import Navbar from "@/components/Navbar";
 import "./globals.css";
-import Footer from "@/components/footer";
+import Footer from "@/components/Footer";
 import { Source_Serif_4 } from 'next/font/google'
  
 const cormorant = Source_Serif_4({
