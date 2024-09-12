@@ -12,7 +12,7 @@ const Navbar = () => {
         </Link>
         <div className="items-center gap-6 hidden lg:flex">
           <Link href="/galeri"><Button variant="outline"  >Galeri</Button></Link>
-          <Link href="#iletisim"  ><Button  className="border-[1px] border-pink-400 bg-pink-400 hover:bg-transparent hover:text-pink-400 text-white  duration-300">İletişim</Button></Link>
+          <Link href="/#iletisim"  ><Button  className="border-[1px] border-pink-400 bg-pink-400 hover:bg-transparent hover:text-pink-400 text-white  duration-300">İletişim</Button></Link>
         </div>
         <div className="lg:hidden">
           <SideMenu />
